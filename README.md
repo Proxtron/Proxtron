@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pavel Bratan</h1>
-<h3 align="center">A passionate frontend developer from California</h3>
+<h1 align="center">Hi There 👋, I'm Pavel Bratan</h1>
+<h3 align="center">A passionate Full-Stack Developer creating modern web applications.</h3>
 
 - 📫 How to reach me **pavelbratan2@gmail.com**
 
